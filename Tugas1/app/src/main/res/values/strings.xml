@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="judul">Protokol Kesehatan Covid-19</string>
+    <string name="tanggal">Kamis, 25 Maret 2021 | 15:42 WIB</string>
+    <string name="penulis">Penulis: <b>Vanya Karunia</b> | Editor: <b>Rahul Subagio</b></string>
+    <string name="artikel1"><b>KOMPAS.com</b> - Jumlah kasus infeksi virus corona di Indonesia kian meningkat. Bertambahnya jumlah kasus ini membuat angka infeksi Covid-19 di Indonesia menembus angka 1 juta.</string>
+    <string name="artikel2">Sudah seharusnya kita lebih patuh terhadap protokol kesehatan yang telah ditentukan Pemerintah Indonesia. Protokol kesehatan ini ditujukan untuk mencegah penularan virus corona dan meminimalisir bertambahnya angka kasus infeksi.</string>
+    <string name="artikel3">Protokol kesehatan tersebut meliputi menggunakan masker, rajin mencuci tangan, serta wajib menjaga jarak. Hal ini bukanlah hal yang mudah, karena bukan merupakan suatu kebiasaan untuk kita semua.</string>
+    <string name="artikel4">Namun, kita harus bekerja lebih keras lagi untuk selalu mengingatkan diri sendiri, orang di sekitar kita, serta orang lain untuk terus menerapkan protokol kesehatan agar tidak terjadi penambahan kasus dan pandemi segera berakhir.</string>
+    <string name="artikel5">Pertambahan kasus ini bukan hanya menjadi momen yang paling menyedihkan. Namun, juga untuk menjadi pengingat agar kita senantiasa menjalankan protokol kesehatan.</string>
+    <string name="footer">KopiPas © 2021 Rahul Subagio</string>
+</resources>
