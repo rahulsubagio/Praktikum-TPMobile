@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convert Nilai</string>
+    <string name="nama"><b>Nama</b></string>
+    <string name="nim"><b>Nim</b></string>
+    <string name="nilai"><b>Nilai</b></string>
+    <string name="poin"><b>: </b></string>
+</resources>
