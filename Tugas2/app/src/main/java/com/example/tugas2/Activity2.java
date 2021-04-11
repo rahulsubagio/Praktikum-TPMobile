@@ -12,9 +12,9 @@ public class Activity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_2);
 
-        TextView tvNama = (TextView) findViewById(R.id.tv_nama);
-        TextView tvNim  = (TextView) findViewById(R.id.tv_nim);
-        TextView tvNilai= (TextView) findViewById(R.id.tv_nilai);
+        TextView tvNama = findViewById(R.id.tv_nama);
+        TextView tvNim  = findViewById(R.id.tv_nim);
+        TextView tvNilai= findViewById(R.id.tv_nilai);
         Bundle bundle   = getIntent().getExtras();
         String sNama    = bundle.getString("nama");
         String sNim     = bundle.getString("nim");

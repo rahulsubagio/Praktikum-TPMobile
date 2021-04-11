@@ -15,10 +15,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final EditText etNama   = (EditText) findViewById(R.id.et_nama);
-        final EditText etNim    = (EditText) findViewById(R.id.et_nim);
-        final EditText etNilai  = (EditText) findViewById(R.id.et_nilai);
-        Button btnSubmit = (Button) findViewById(R.id.btn_submit);
+        EditText etNama   = findViewById(R.id.et_nama);
+        EditText etNim    = findViewById(R.id.et_nim);
+        EditText etNilai  = findViewById(R.id.et_nilai);
+        Button btnSubmit = findViewById(R.id.btn_submit);
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
